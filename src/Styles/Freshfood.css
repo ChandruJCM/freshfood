@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+ 
+
+.head{
+    background-color: #e3effb;
+   
+}
+.T{
+    background-color: #e3effb;
+    margin-top:3px ;
+    display: flex;
+}
+.Main{
+    width: 700px;
+    position: relative;
+    left: 150px;
+}
+.photo{
+    width: 730px;
+    height: 745px;
+}
+
+.S{
+    font-family: Great Vibes;
+    font-size: 110px;
+    color: #ff5a00;
+    margin-left: 175px;
+    position: relative;
+    bottom: 75px;
+}
+.F{
+    font-size:30px;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 700;
+    color: #61a734;
+    margin-left: 320px;
+    margin-top: 230px;
+}
+.H{
+    font-style: italic;
+    font-weight: 400;
+    font-size:20px;
+    position: relative;
+    bottom: 110px;
+    left: 180px;
+}
+
+.Button{
+    font-style: 'Open Sans',sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: #61a734;
+    border: none;
+    padding: 19px 59px 20px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    position: relative;
+    bottom: 100px;
+    left: 180px;
+    margin-bottom: 100px;
+}

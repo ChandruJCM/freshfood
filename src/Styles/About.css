@@ -1,0 +1,50 @@
+.about{
+    background-color:#61a734;
+    font-family: 'Open Sans',sans-serif;
+    color: white;
+    font-size: 55px;
+    margin-top: 10px;
+}
+.Today{
+    margin-bottom: 300px;
+    font-style: italic;
+    font-size: 19px;
+    color: white;
+    line-height: 30px;
+}
+.farm{
+    background-color: #61a734;
+}
+.image{
+    margin: 18px;
+    width: 290px;
+    position: relative;
+    bottom: 262px;
+}
+.sub-1{
+    color: #61a734;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 500;
+    margin-left: 5px;
+    margin-top: 40px;
+}
+.sub-2{
+    color: #61a734;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 500;
+    margin-left: 5px;
+    margin-top: 40px;
+}
+.sub-3{
+    color: #61a734;
+    font-family: 'Open Sans',sans-serif;   
+    font-weight: 500;
+    text-align: left;
+    margin-top: 25px;
+}
+.para-1{
+    margin-left: 20px;
+    text-align:left;
+    font-style:italic;
+    font-size: larger
+}

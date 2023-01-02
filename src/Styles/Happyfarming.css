@@ -1,0 +1,37 @@
+.H-1{
+    color: #61a734;
+    font-family:'Open Sans',sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 90px;
+
+}
+.happy{
+    font-family: Great Vibes;
+    font-size:70px;
+    color: #ff5a00;
+    margin-bottom: 10px;
+    margin-right: 110px;
+    text-align: center;
+}
+ .The{
+    font-style: italic;
+    font-weight: 400;
+    margin-left: 130px;
+    line-height:30px;
+    padding-bottom: 30px;
+}  
+.Button-2{
+    font-style: 'Open Sans',sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    background-color:#ff5a00;
+    border: none;
+    margin-bottom: 50px;
+    margin-left: 130px;
+    padding: 15px 30px 15px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+} 

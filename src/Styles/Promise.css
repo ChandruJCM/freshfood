@@ -1,0 +1,48 @@
+.veg{
+    background-image: url(../Assets/Images/Home/Promise.jpg);
+    background-size:cover;
+    height: 100vh;
+    width:100%;
+    display: flex;
+}
+.title{
+    margin-right:40px;
+    background-color:white;
+}
+.F-1{
+    color: #61a734;
+    font-family:'Open Sans',sans-serif;
+    font-size:25px;
+    font-weight: 700;
+    margin-left: 230px;
+    margin-top:200px;
+    margin-bottom: 2px;
+
+}
+.Our{
+    font-family: Great Vibes;
+    font-size:80px;
+    color: #ff5a00;
+    margin-left: 80px;
+
+}
+.we{
+    font-style: italic;
+    font-weight: 400;
+    font-size:1.325rem;
+    margin-left: 80px;
+    line-height:35px;
+}
+.Button-1{
+    font-style: 'Open Sans',sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    background-color:#ff5a00;
+    border: none;
+    padding: 15px 50px 15px;
+    margin-top: 50px;
+    margin-left: 80px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+}

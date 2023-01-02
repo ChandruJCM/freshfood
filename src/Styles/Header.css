@@ -1,0 +1,12 @@
+.top{
+    width: 100%;
+    height: 100px;
+    background-color: #e3effb;
+    background-repeat:no-repeat;
+}
+.bottom{    
+    width: 22%;
+    position: relative;
+    left: 50px;
+    padding: 10px;
+}

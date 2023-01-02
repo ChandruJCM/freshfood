@@ -1,0 +1,40 @@
+.end{
+    width: 100%;
+    background-color: #61a734;
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400px;
+    padding-top: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.para{
+    text-align: center;
+    font-style:italic;
+    font-size: larger;
+    font-weight:lighter;
+    
+}
+.Organic{
+    font-family: 'Open Sans',sans-serif;
+    padding-bottom: 10px;
+
+}
+.picture{
+    padding-left: 10px;
+    background-color: #61a734;
+    border: none;
+
+}
+.dead{
+    margin-bottom:100px;
+    height: 330px;
+    padding-right: 11px;
+}
+.icon{
+    color: #61a734;
+    margin-top: 65px;
+    padding-bottom: 10px;
+}
+
